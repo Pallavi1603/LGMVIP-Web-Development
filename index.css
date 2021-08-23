@@ -1,0 +1,40 @@
+*{
+  margin:0%;
+  padding:0%;
+  
+}
+.body{
+  background-color:black;
+  height:100vh;
+  width:100vw;
+}
+.Navbar{
+  background-color:grey;
+  height:80px;
+  width:100vw;
+}
+
+
+
+ul{
+  list-style:none;
+  float:right;
+  padding-right:150px;
+  padding-top:65px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+}
+li{
+  font-family:Noto Sans JP;
+  font-size:18px;
+  color:white;
+  box-shadow: 1px 4px 8px 1px rgb(139, 136, 136);
+  transition: 0.3s;
+  background-color:grey;
+
+}
+ul:hover{
+  position:relative;
+  top:-10px;
+  left:-10px;
+}
