@@ -9,7 +9,7 @@
   width:100vw;
 }
 .Navbar{
-  background-color:grey;
+  background-color:white;
   height:80px;
   width:100vw;
 }
@@ -25,12 +25,12 @@ ul{
 
 }
 li{
-  font-family:Noto Sans JP;
+  font-family:'Montserrat', sans-serif;;
   font-size:18px;
-  color:white;
+  color:black;
   box-shadow: 1px 4px 8px 1px rgb(139, 136, 136);
   transition: 0.3s;
-  background-color:grey;
+  background-color:rgb(145, 142, 142);
 
 }
 ul:hover{
